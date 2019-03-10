@@ -1,0 +1,20 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+.parallax-container {
+  height: 20%;
+  opacity: 0.8 !important;
+}
+
+.clients img {
+  max-width: 170px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8))
+}
+
+section #contact {
+  height: 5;
+}
